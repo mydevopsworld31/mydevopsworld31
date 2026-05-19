@@ -61,7 +61,7 @@ learning   : Helm Charts · GitHub Actions · AWS Lambda
       <b>Containerized Workload</b><br/><br/>
       AWS EKS · CodePipeline · CodeBuild<br/>
       + DockerHub · CloudWatch logs<br/><br/>
-      <a href="https://github.com/mydevopsworld31/Trend">
+      <a href="https://github.com/mydevopsworld31//Brain-Tasks-App">
         <img src="https://img.shields.io/badge/View_Project-1A56A8?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -70,7 +70,7 @@ learning   : Helm Charts · GitHub Actions · AWS Lambda
       <b>AWS Infrastructure Automation</b><br/><br/>
       VPC · EC2 · IAM · S3<br/>
       30 min setup → 5 min with Terraform<br/><br/>
-      <a href="https://github.com/mydevopsworld31/Brain-Tasks-App">
+      <a href="https://github.com/mydevopsworld31/Trend">
         <img src="https://img.shields.io/badge/View_Project-1A56A8?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
