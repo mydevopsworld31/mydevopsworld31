@@ -15,7 +15,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrnareshyadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamnareshyadav/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Journey_of_an_Engineer)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:npy.personal@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mydevopsworld31)
@@ -28,12 +28,12 @@
 
 ```yaml
 name       : Naresh Prasad Yadav
-role       : Junior DevOps Engineer (Fresher)
+role       : DevOps Engineer 
 location   : India
-background : B.Tech Mechanical Engineering → Cloud & DevOps
-training   : GUVI – HCL Supported DevOps Program (6 months)
+background : MCA (Manipal University Jaipur - Online) → Cloud Computing 
+intership   : Davine Technology (Remote)
 projects   : 3 end-to-end projects — all live on GitHub
-status     : Open to Junior DevOps / Cloud Ops roles
+status     : Open to Junior DevOps / Cloud Engineer roles
 learning   : Helm Charts · GitHub Actions · AWS Lambda
 ```
 
