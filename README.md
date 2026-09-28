@@ -29,10 +29,9 @@
 ```yaml
 name       : Naresh Prasad Yadav
 role       : DevOps Engineer 
-location   : India
-background : MCA (Manipal University Jaipur - Online) → Cloud Computing 
+location   : Delhi-NCR 
 intership   : Davine Technology (Remote)
-projects   : 3 end-to-end projects — all live on GitHub
+projects   : 3 end-to-end projects with tech stack
 status     : Open to Junior DevOps / Cloud Engineer roles
 learning   : Helm Charts · GitHub Actions · AWS Lambda
 ```
